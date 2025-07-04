@@ -1,11 +1,17 @@
 # DSA-Capstone-Project - Amazon Case Study
 
 
-## Aim: This is to document my DSA project analysis and insights derived from analysis of the Amazon Sales Case Study.
+## Aim: 
 
-## Sources: Amazon Case Study Spreadsheet in xlsx format
+   This is to document my DSA project analysis and insights derived from analysis of the Amazon Sales Case Study.
 
-## Tools used: Microsoft Excel (embedded Power Query)
+## Sources: 
+
+   Amazon Case Study Spreadsheet in xlsx format
+
+## Tools used: 
+
+   Microsoft Excel (embedded Power Query)
 
 ## Methodology: 
 
